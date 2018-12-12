@@ -259,7 +259,7 @@
 		<key>#XMPDetection</key>
 		<string>-1</string>
 		<key>Arguments</key>
-		<string>keepsyms=1 dart=0 debug=0x100 shikivga=40 -v</string>
+		<string>shikivga=40 keepsyms=1 dart=0</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -281,16 +281,16 @@
 		<key>StrictHibernate</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>3</integer>
 	</dict>
 	<key>BootGraphics</key>
 	<dict>
 		<key>#DefaultBackgroundColor</key>
 		<string>0xF0F0F0</string>
 		<key>EFILoginHiDPI</key>
-		<integer>1</integer>
+		<integer>2</integer>
 		<key>UIScale</key>
-		<integer>1</integer>
+		<integer>2</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -768,11 +768,11 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>1280x1024</string>
+		<string>3840x2160</string>
 		<key>ShowOptimus</key>
 		<false/>
 		<key>Theme</key>
-		<string>christmas</string>
+		<string>YosemiteLogin</string>
 		<key>Timezone</key>
 		<integer>3</integer>
 	</dict>
